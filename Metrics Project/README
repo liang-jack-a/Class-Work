@@ -1,0 +1,7 @@
+# Metrics Project
+
+This is my final code for my Honours Econometrics Project, completed with Brandon Dixon. The paper we wrote together is included in this folder.
+
+The original data was taken from the yelp academic dataset, and we did some cleaning with yelp_data_organize.py.
+
+All of the analysis is done in Final_code_Dixon_Liang.R. We create some descriptive plots of the data, do some distribution comparison tests, and run OLS regressions.
